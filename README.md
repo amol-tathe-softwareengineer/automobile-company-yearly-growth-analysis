@@ -1,19 +1,23 @@
 # 🚗 Automobile Company Yearly Growth Analysis
 
 ## 📌 Project Overview
-This project focuses on analyzing automobile data to understand yearly growth trends and price variations.
+This project focuses on analyzing dataset to understand patterns and trends.
 
-## 🎯 Objectives
-- Analyze car price trends
-- Understand impact of features like fuel, year, and kms driven
-- Build prediction model
-
-## 🛠 Tech Stack
+## 🛠 Technologies Used
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
-- Scikit-learn
+- Jupyter Notebook
 
-## 📊 Project Status
-🚧 Initial Setup Done (Work in Progress)
+## 📊 Analysis Performed
+- Data loading
+- Basic data exploration
+- Visualization using graphs
+
+## 📈 Key Insights
+- Observed patterns in dataset
+- Compared categories using graphs
+
+## 🚀 Status
+Completed (Beginner Level Project)
